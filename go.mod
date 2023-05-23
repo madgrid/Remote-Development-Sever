@@ -1,4 +1,4 @@
-module github.com/DanielRDias/remote-development
+module github.com/madgrid/remote-development-server
 
 go 1.15
 
