@@ -64,7 +64,7 @@ Optional:
 
    Connect to the server using the private key and the server IP.
 
-   Example: `ssh -i "C:\Users\Danie\.ssh\remotedev.pem" ec2-user@35.172.146.46`
+   Example: `ssh -i "C:\Users\me\.ssh\remotedev.pem" ec2-user@35.172.146.46`
 
    ![ssh](docs/img/ssh.png)
 
