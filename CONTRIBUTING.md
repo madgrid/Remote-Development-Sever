@@ -1,6 +1,6 @@
 # Contribution guide
 
-## Developing remote-development
+## Developing remote-development-server
 
 Thank you for considering to contribute to this project!
 Please consider these guidelines when filing a pull request:
